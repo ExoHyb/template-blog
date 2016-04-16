@@ -7,7 +7,7 @@
       <?php include "header.php"; ?>
       <!-- end title -->
       <div class="row">
-        <div class="col-md-8"> <!-- column display article! -->
+        <div class="col-xs-12 col-sm-12 col-md-8"> <!-- column display article! -->
           <!-- Start templating style article -->
           <?php include "article-video.php"; ?>
           <!-- End templating style article -->
@@ -21,7 +21,7 @@
           <?php include "leave_comment.php"; ?>
           <!-- End Leave a Comment -->
         </div>
-        <div class="col-md-4"> <!-- column right (sidebar) -->
+        <div class="col-xs-12 col-sm-12 col-md-4"> <!-- column right (sidebar) -->
             <!-- Start presentation -->
             <?php include "presentation.php"; ?>
             <!-- End presentation -->
@@ -36,7 +36,7 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <?php include "footer.php"; ?>
             </div>
         </div>

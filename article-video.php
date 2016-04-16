@@ -1,8 +1,8 @@
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-xs-12 col-sm-12 col-md-12">
     <div class="style-articles">
-        <div class="embed-responsive embed-responsive-4by3">
-            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/K7rx5b43T9o" frameborder="0" allowfullscreen></iframe> <!-- Video article -->
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IgKvWW3bGOE" frameborder="0" allowfullscreen></iframe> <!-- Video article -->
         </div>
       <h2> <!-- Title article -->
           <a href="#">Blog SlideShow Post</a>

@@ -1,7 +1,7 @@
 <div class="row">
-    <div class="col-md-12">
+    <div class="col-xs-12 col-sm-6 col-md-12">
         <div class="style-presentation">
-            <img class="img-responsive" src="img/profil.jpg" alt="photo de profil Théo Martin" />
+            <img class="img-responsive photo-profil" src="img/profil.jpg" alt="photo de profil Théo Martin" />
             <h2>A propos!</h2>
             <hr>
             <p>

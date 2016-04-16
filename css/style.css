@@ -17,6 +17,26 @@
   font-size: 1em;
 }
 
+.style-navbar {
+  border-bottom: 1px solid #E0E0E0;
+  border-top: 1px solid #E0E0E0;
+}
+.style-navbar ul {
+  list-style: none;
+  height: 3em;
+  text-align: center;
+  padding: 0;
+}
+.style-navbar li {
+  display: inline-block;
+  line-height: 4em;
+  color: #5FA9BF;
+}
+.style-navbar a {
+  text-transform: uppercase;
+  font-family: "Raleway", Arial, serif;
+}
+
 .style-articles {
   margin-top: 1em;
   border: 1px solid #E0E0E0;
@@ -199,6 +219,16 @@
 .style-leave-comment .button-comment a {
   text-decoration: none;
   color: #5FA9BF;
+}
+
+.footer {
+  margin-top: 30px;
+}
+.footer p {
+  text-align: center;
+  font-family: "Raleway", Arial, serif;
+  color: #444;
+  font-size: 0.8em;
 }
 
 /*# sourceMappingURL=style.css.map */
