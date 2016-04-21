@@ -202,7 +202,7 @@
 }
 .style-leave-comment textarea {
   width: 100%;
-  border-color: #E0E0E0;
+  border: 1px solid #E0E0E0;
 }
 .style-leave-comment input {
   border: 1px solid #E0E0E0;
